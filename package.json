@@ -4,7 +4,8 @@
   "description": "Kickstart your Express.js and Mongoose projects with this pre-configured template. Includes controllers, services, and MongoDB integration for rapid development.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js" 
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Hritikror/express-mongoose-template/issues"
   },
-  "homepage": "https://github.com/Hritikror/express-mongoose-template#readme"
+  "homepage": "https://github.com/Hritikror/express-mongoose-template#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3",
+    "nodemon": "^3.1.0"
+  }
 }
