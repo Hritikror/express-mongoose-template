@@ -1,0 +1,19 @@
+{
+  "name": "express-mongoose-template",
+  "version": "1.0.0",
+  "description": "Kickstart your Express.js and Mongoose projects with this pre-configured template. Includes controllers, services, and MongoDB integration for rapid development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hritikror/express-mongoose-template.git"
+  },
+  "author": "hritik-ror",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hritikror/express-mongoose-template/issues"
+  },
+  "homepage": "https://github.com/Hritikror/express-mongoose-template#readme"
+}
